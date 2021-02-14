@@ -1,20 +1,28 @@
 li {
 	display: inline;
 }
+}
 .mainicon {
-	vertical-align: middle;
+	vertical-align: bottom;
 }
 .navbar-a {
 	margin-left: 50px;
 	margin-right: 18px;
 	color:  #EE4036; 
+	font-size: 22px;
+	font-family: 'BPG Nino Mtavruli Bold';
 }
 .navbar-b {
 	margin-right: 18px;
 	color: #3D58A6;
+	font-family: 'BPG Nino Mtavruli Bold';
+	font-size: 22px;
 }
 .navbar-c {
-	color: #3D58A6
+	color: #3D58A6;
+	font-family: 'BPG Nino Mtavruli Bold';
+	font-size: 22px;
+
 }
 .box1 {
 	margin-top: 27px;
@@ -65,7 +73,7 @@ h1 {
 	width: 354px;
 	margin-left: 80px;
 	font-size: 20px;
-	color: #58595B;
+	color: #333333;
 }
 footer {
 	margin-top: 95px;
