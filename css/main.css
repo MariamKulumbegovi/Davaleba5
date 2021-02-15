@@ -1,23 +1,26 @@
 .main_logo{
 	list-style-type: none;
-	margin-right: 50px;
+	margin-right: 50px;   
 }
 .main{
 	list-style-type: none;
 	text-decoration: none;
 	color: #EE4036;
 	margin-right: 20px;
+	font-family: 'BPG Nino Mtavruli Bold';
 }
 .news{
 	list-style-type: none;
 	text-decoration: none;
 	color: #3D58A6;	
 	margin-right: 36px;
+	font-family: 'BPG Nino Mtavruli Bold';
 }
 .contact{
 	list-style-type: none;
 	text-decoration: none;
-	color: #3D58A6;	
+	color: #3D58A6;	 
+	font-family: 'BPG Nino Mtavruli Bold';
 }
 li{
 	display: inline;
@@ -54,6 +57,7 @@ footer{
 }
 .back{
 	background-color: #E6E6E6;
+	font-family: 'BPG Nino Mtavruli Bold';
 }
 iframe{
 	width: 874px;
