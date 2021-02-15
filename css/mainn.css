@@ -39,6 +39,7 @@ li {
 	display: inline-block;
 	width: 525px;
 	margin-top:41px;
+	background-color: #F2F2F2;
 }
 .articlecontent1 {
 	display: inline-block;
@@ -64,6 +65,7 @@ h1 {
 	margin-left: 119px;
 	margin-top: 41px;
 	vertical-align: top;
+	background-color: #F2F2F2;
 }
 .articlecontent3 {
 	display: inline-block;
